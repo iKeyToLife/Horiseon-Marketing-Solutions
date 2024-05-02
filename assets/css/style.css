@@ -50,6 +50,11 @@ p {
     font-size: 16px;
 }
 
+article {
+    display: block;
+    unicode-bidi: isolate;
+}
+
 article img {
     height: 800px;
     width: 100%;
