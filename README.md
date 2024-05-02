@@ -11,6 +11,9 @@ This code is taken from the "Minesota Advanced CSS" repository and represents th
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
+- [Repository Link](#repository-link)
+- [Deployed Application](#deployed-application)
+- [Example Application](#example-application)
 
 ## Description
 The main goal of this project is to refactor the existing codebase to meet accessibility standards and improve search engine optimization.
@@ -37,3 +40,13 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## Repository Link
+[Horiseon Marketing Solutions Repository](https://github.com/iKeyToLife/Horiseon-Marketing-Solutions)
+
+## Deployed Application
+[Horiseon Marketing Solutions Deployed Application](https://ikeytolife.github.io/Horiseon-Marketing-Solutions/)
+
+## Example Application
+
+![Application Screenshot](./assets/images/horiseon-preview.png)
