@@ -2,6 +2,11 @@
 
 This project is a refactoring of an existing website for Horiseon Marketing Solutions to make it more accessible and optimized for search engines.
 
+## Source of the Code
+
+This code is taken from the "Minesota Advanced CSS" repository and represents the "reset.css" file.
+
+
 ## Table of Contents
 - [Description](#description)
 - [User Story](#user-story)
