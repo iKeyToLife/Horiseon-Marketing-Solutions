@@ -164,14 +164,6 @@ footer {
 }
 
 /* Size footer h2 */
-footer h2 {
+footer h4 {
     font-size: 20px;
-}
-
-/* Media for Tablets*/
-@media screen and (max-width: 992px) {
-    header nav {
-        font-size: 14px;
-    }
-
 }
