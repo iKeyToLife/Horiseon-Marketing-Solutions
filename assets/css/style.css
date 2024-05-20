@@ -102,8 +102,8 @@ article img {
     color: #ffffff;
 }
 
-/* Benefit text-align and margin h3 */
-.benefits h3 {
+/* Benefit text-align and margin h2 */
+.benefits h2 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -163,7 +163,7 @@ footer {
     text-align: center;
 }
 
-/* Size footer h4 */
-footer h4 {
+/* Size footer h2 */
+footer h2 {
     font-size: 20px;
 }
